@@ -1,0 +1,8 @@
+# How Many Basic Types Of Functions Are Available In Python?
+In Python, there are several types of functions, but they can be categorized into three main groups:
+
+Built-in Functions: These functions are part of the Python standard library and are available for use without the need for any import statements. Examples include print(), len(), type(), and range().
+
+Standard Library Functions: Python's standard library contains a vast number of functions organized into various modules. You need to import these modules to access their functions. Examples include functions like math.sqrt() (from the math module), random.randint() (from the random module), and os.listdir() (from the os module).
+
+User-Defined Functions: These functions are defined by the programmer/user to perform specific tasks. User-defined functions allow you to encapsulate a set of statements into a reusable block of code. You create these functions using the def keyword followed by a function name, parameters, and a code block.

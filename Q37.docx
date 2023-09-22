@@ -1,0 +1,8 @@
+# How Do You Check The Presence Of A Key In A Dictionary?
+
+by using the keyname in and dictname with any object or print function to identify the presence of key in the dictionary
+
+
+d={1:2,2:3,4:4}
+
+print(2 in d)
